@@ -3,7 +3,7 @@ use strict;
 
 # Required: csdr, sox
 
-my $infile = "cc.mp3";
+my $infile = "cc.wav";
 my $rate   = 44100;
 my $fscale = 24000;
 
