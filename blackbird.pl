@@ -26,7 +26,7 @@ system("sox shifted.wav -t .f32 - | ".
 
 open my $fm_in, "sox fmdemod.wav -t .f32 - sinc -70 -n 1024|";
 open my $amp_in, "sox amdemod.wav -t .f32 -|";
-open my $out, "|sox -t .f32 -c 1 -r $rate - birdson3.wav";
+open my $out, "|sox -t .f32 -c 1 -r $rate - birdsong1.wav";
 
 my $phase = 0;
 my $t = 0;
