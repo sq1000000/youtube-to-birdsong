@@ -6,8 +6,6 @@ Colab notebook to convert human voice from YouTube videos to blackbird song. Mad
 
 
 
-
-
 #### Input:
 
 https://user-images.githubusercontent.com/39637438/116573731-10514d80-a8db-11eb-9b3e-94f424d14266.mp4
