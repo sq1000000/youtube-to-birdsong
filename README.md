@@ -13,3 +13,7 @@ output:
 
 https://user-images.githubusercontent.com/39637438/116573747-15160180-a8db-11eb-8236-0c827fa38a1c.mp4
 
+#### Credits
+- [Windytan](https://github.com/windytan) for [script](https://gist.github.com/windytan/80781ca72c357bb61de8a7b70faea48f) to convert audio to birdsong
+- [ha7ilm](https://github.com/ha7ilm) for [script](https://gist.github.com/ha7ilm/944f2c2f7666256bff83) used to install csdr
+- [Google](http://google.com/) for hosting [colab](https://colab.research.google.com/)
