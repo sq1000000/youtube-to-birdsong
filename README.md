@@ -1,6 +1,6 @@
 youtube-to-birdsong 
 ====
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xcamden/youtube-to-birdsong/blob/main/youtube_to_birdsong.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ceresisonline/youtube-to-birdsong/blob/main/youtube_to_birdsong.ipynb)
 
 A Colab notebook to convert human voice in YouTube videos to blackbird song.
 
