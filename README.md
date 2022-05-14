@@ -21,6 +21,6 @@ https://user-images.githubusercontent.com/39637438/116630551-60eb9980-a921-11eb-
 
 
 #### Credits to:
-- [Windytan](http://www.windytan.com/) for [script](https://gist.github.com/windytan/80781ca72c357bb61de8a7b70faea48f) to convert audio to birdsong
-- [ha7ilm](https://github.com/ha7ilm) for [script](https://gist.github.com/ha7ilm/944f2c2f7666256bff83) used to install csdr
+- [Windytan](http://www.windytan.com/) for the [script](https://gist.github.com/windytan/80781ca72c357bb61de8a7b70faea48f) used to convert audio to birdsong
+- [ha7ilm](https://github.com/ha7ilm) for the [script](https://gist.github.com/ha7ilm/944f2c2f7666256bff83) used to install csdr
 - [Google](http://google.com/) for hosting [colab](https://colab.research.google.com/)
